@@ -1,0 +1,32 @@
+<html>
+    
+    <head>
+        <title>
+            Article-Three | Udhay
+        </title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </head>
+    <body>
+        <div>
+            <a href="/">Home</a>
+            <a href="/article-two.html">Prev</a>
+            <a href="/article-one.html">Next</a>
+            
+        </div>
+        <hr/>
+        <h3>
+            Article Three
+        </h3>
+        <div>
+            Sep 23, 2016
+        </div>
+        <div>
+            <p>
+                This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. 
+            </p>
+            <p>
+                This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. This is sampele Text, This would be updated soon. 
+            </p>
+        </div>
+    </body>
+</html>
